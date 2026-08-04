@@ -4,12 +4,15 @@ link del juego original:
 
 https://detcc.itch.io/dont-eat-the-cashier
 
+<img width="1594" height="896" alt="image" src="https://github.com/user-attachments/assets/b3e91166-7b7d-4708-835c-bed8f3b0082f" />
+<img width="1593" height="883" alt="image" src="https://github.com/user-attachments/assets/13a24af6-a2ea-45cd-af7d-027e1601e9a0" />
+<img width="1579" height="894" alt="image" src="https://github.com/user-attachments/assets/5129121d-4ff6-4468-921f-198e584f712f" />
 
 Descarga aqui la traduccion al juego DontEattheCashier-PRISIONER0-ESP
 
 link para pc y android:
 
-.
+https://github.com/PRISIONER0/DontEattheCashier-PRISIONER0-ESP/releases/tag/v1
 
 ══════════════════════════════
 
